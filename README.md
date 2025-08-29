@@ -2,6 +2,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Ready-green.svg)](https://scikit-learn.org/stable/)
+[![Coursera Project](https://img.shields.io/badge/Portfolio-Coursera_Project-blue.svg)](https://coursera.org/share/f97524cda955c726afffa53999c5f532)
 
 # 💳 FraudForge
 
