@@ -12,7 +12,19 @@ It started as a **Coursera-based baseline implementation** (vanilla GAN with Bin
 
 This project shows how synthetic fraud samples can be generated to **balance datasets, improve model training, and stress-test fraud detection systems**.
 
+## 📌 Overview
+
+This repository contains my learnings and experiments with Generative Adversarial Networks (GANs) and Principal Component Analysis (PCA), inspired by a Coursera course and extended through independent research.
+
+The goal is to understand how GANs generate synthetic data, how PCA aids in data exploration, and how advanced GAN techniques (like WGAN-GP) stabilize training.
+
 ---
+## 🎓 What I Learned from Coursera
+
+   - Clean and preprocess data for GANs
+   - Employ GANs (Generative Adversarial Networks) for data generation
+   - Apply PCA (Principal Component Analysis) for data exploration
+📖 Coursera Certificate[!LINK(https://coursera.org/share/f97524cda955c726afffa53999c5f532)
 
 ## 🧠 What This Project Covers
 
@@ -27,7 +39,7 @@ This project shows how synthetic fraud samples can be generated to **balance dat
    - Replaced BCE with Wasserstein loss for better stability.
    - Added **RandomForest evaluation pipeline**:
      - Checked how synthetic frauds help classification.
-     - Reported **Accuracy, Precision, Recall, F1** (with special focus on Recall).
+     - Reported **Accuracy, Precision, Recall ** (with special focus on Recall).
    - Generated a **balanced synthetic dataset** (fraud + genuine) and exported it as CSV for reuse.
 
 ---
