@@ -108,8 +108,10 @@ The project is divided into **two clear tracks**:
 Epoch 2000/2000 | Critic loss (mean): -4.6252 | Generator loss: -20.2002
 
 ### 🔹 TSTR Evaluation (Train on Synthetic, Test on Real)
-- **Average Precision (AP):** 0.8488  
-- **ROC-AUC:** 0.9663  
+- **Average Precision (AP):** 0.8566
+- **ROC-AUC:** 0.9616  
+- **Accuracy:** 0.9899
+- **Precision:** 0.4886
 
 ### 🔹 Precision-Recall Curve
 Classifier trained on **synthetic fraud + real genuine**, evaluated on **real test set**.
