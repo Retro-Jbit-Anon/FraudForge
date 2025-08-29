@@ -70,8 +70,6 @@ The project is divided into **two clear tracks**:
 ```
 ---
 
----
-
 ## 🚀 Running the Project
 
 ### ✅ Prerequisites
@@ -115,7 +113,7 @@ Classifier trained on **synthetic fraud + real genuine**, evaluated on **real te
 
 - Synthetic datasets can be a powerful tool for imbalanced fraud detection tasks.
 
----
+**---**
 To understand the WGAN-GP i recommend going through the jypter notebook where i have tried to explain a bit more in detail as to why WGAN-GP is better than a BCE Vanilla GAN.
 ---
 
