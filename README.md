@@ -24,7 +24,7 @@ The goal is to understand how GANs generate synthetic data, how PCA aids in data
    - Clean and preprocess data for GANs
    - Employ GANs (Generative Adversarial Networks) for data generation
    - Apply PCA (Principal Component Analysis) for data exploration
-📖 Coursera Certificate[!LINK(https://coursera.org/share/f97524cda955c726afffa53999c5f532)
+## 📖 [Coursera Certificate](https://coursera.org/share/f97524cda955c726afffa53999c5f532)
 
 ## 🧠 What This Project Covers
 
