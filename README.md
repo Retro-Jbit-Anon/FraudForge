@@ -81,10 +81,10 @@ The project is divided into **two clear tracks**:
   ```
 ### Steps
 - 1. Clone teh repo:
-```bash
+   ```bash
      git clone https://github.com/yourusername/FraudForge.git
      cd FraudForge
-```
+   ```
 - 2. Open the notebooks in notebook folder:
 -- Run 01_vanilla_gan_baseline.ipynb to reproduce the Coursera version.
 -- Run 02_wgan_gp_extension.ipynb to see WGAN-GP with evaluation.
