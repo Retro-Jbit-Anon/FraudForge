@@ -67,12 +67,10 @@ The project is divided into **two clear tracks**:
 ## 📂 Project Structure
 
 ``` yaml
-├── notebooks/
-│ ├── 01_vanilla_gan_baseline.ipynb # Coursera-style GAN implementation
-│ ├── 02_wgan_gp_extension.ipynb # Advanced GAN with RandomForest evaluation
+├── 01_vanilla_gan_baseline.ipynb # Coursera-style GAN implementation
+├── 02_wgan_gp_extension.ipynb # Advanced GAN with RandomForest evaluation
 │
-├── datasets/
-│ ├── Creditcard_dataset.csv # Original dataset
+├── Creditcard_dataset.csv # Original dataset
 │ └── synthetic_creditcard_dataset.csv # Final generated dataset (fraud + genuine)
 │
 ├── wgan checkpoints/
