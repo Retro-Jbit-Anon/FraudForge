@@ -85,7 +85,7 @@ The project is divided into **two clear tracks**:
 - 1. Clone teh repo:
 ```bash
      git clone https://github.com/yourusername/FraudForge.git
-cd FraudForge
+     cd FraudForge
 ```
 - 2. Open the notebooks in notebook folder:
 -- Run 01_vanilla_gan_baseline.ipynb to reproduce the Coursera version.
